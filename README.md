@@ -15,9 +15,13 @@ Some of the tools available are:
 
 This Makefile ships with some goodies.
 
-* `make server` - Starts a simple HTTPServer on 8000 port using Python `SimpleHTTPServer`;
+* `make server` - Starts a web server on 8000 port using Python `SimpleHTTPServer`;
 * `make compile` - Compiles the default Stylus stylesheet.
 * `make lint` - Runs CSSLint on `./stylesheets`.
+
+## TODO
+
+* Handle JavaScript minification with UglifyJS.
 
 ## License
 

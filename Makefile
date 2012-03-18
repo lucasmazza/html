@@ -1,5 +1,5 @@
 compile:
-		@./node_modules/stylus/bin/stylus stylus/main.styl -o stylesheets -c
+		@./node_modules/stylus/bin/stylus stylus/main.styl -o stylesheets -c -u nib
 server:
 		@python -m SimpleHTTPServer
 lint: compile

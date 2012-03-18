@@ -8,7 +8,7 @@ A `package.json` is present to specify some utilities written on Node.JS and shi
 
 Some of the tools available are:
 
-* [Stylus](https://github.com/learnboost/stylus);
+* [Stylus](https://github.com/learnboost/stylus) and [Nib](https://github.com/visionmedia/nib);
 * [CSSLint](https://github.com/stubbornella/csslint).
 
 ## Makefile

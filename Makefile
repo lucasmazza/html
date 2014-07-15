@@ -1,2 +1,2 @@
 server:
-		@python -m SimpleHTTPServer
+		@ruby -run -e httpd -- -p 9292 .

@@ -11,4 +11,4 @@ git clone git@github.com:lucasmazza/html.git my-project && rm -rf my-project/.gi
 
 ## License
 
-Copyright (c) 2012 - 2013 Lucas Mazza. See LICENSE file.
+Copyright (c) 2012 - 2014 Lucas Mazza. See LICENSE file.
